@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/modernportfolio/static/css/main.1ea1b9a6.chunk.css",
-    "main.js": "/modernportfolio/static/js/main.524d2741.chunk.js",
-    "main.js.map": "/modernportfolio/static/js/main.524d2741.chunk.js.map",
-    "runtime-main.js": "/modernportfolio/static/js/runtime-main.c015e7c2.js",
-    "runtime-main.js.map": "/modernportfolio/static/js/runtime-main.c015e7c2.js.map",
-    "static/js/2.c40f4e25.chunk.js": "/modernportfolio/static/js/2.c40f4e25.chunk.js",
-    "static/js/2.c40f4e25.chunk.js.map": "/modernportfolio/static/js/2.c40f4e25.chunk.js.map",
-    "index.html": "/modernportfolio/index.html",
-    "static/css/main.1ea1b9a6.chunk.css.map": "/modernportfolio/static/css/main.1ea1b9a6.chunk.css.map",
-    "static/js/2.c40f4e25.chunk.js.LICENSE.txt": "/modernportfolio/static/js/2.c40f4e25.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/modernportfolio/static/media/pr.4f9057eb.jpg",
-    "static/media/s.ef079e7e.jpg": "/modernportfolio/static/media/s.ef079e7e.jpg",
-    "static/media/so.bba2de0d.jpg": "/modernportfolio/static/media/so.bba2de0d.jpg",
-    "static/media/turnLight1.28f02af2.mp3": "/modernportfolio/static/media/turnLight1.28f02af2.mp3"
+    "main.css": "/modernPortfolio/static/css/main.b935eeee.chunk.css",
+    "main.js": "/modernPortfolio/static/js/main.524d2741.chunk.js",
+    "main.js.map": "/modernPortfolio/static/js/main.524d2741.chunk.js.map",
+    "runtime-main.js": "/modernPortfolio/static/js/runtime-main.82a83b9d.js",
+    "runtime-main.js.map": "/modernPortfolio/static/js/runtime-main.82a83b9d.js.map",
+    "static/js/2.c40f4e25.chunk.js": "/modernPortfolio/static/js/2.c40f4e25.chunk.js",
+    "static/js/2.c40f4e25.chunk.js.map": "/modernPortfolio/static/js/2.c40f4e25.chunk.js.map",
+    "index.html": "/modernPortfolio/index.html",
+    "static/css/main.b935eeee.chunk.css.map": "/modernPortfolio/static/css/main.b935eeee.chunk.css.map",
+    "static/js/2.c40f4e25.chunk.js.LICENSE.txt": "/modernPortfolio/static/js/2.c40f4e25.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/modernPortfolio/static/media/pr.4f9057eb.jpg",
+    "static/media/s.ef079e7e.jpg": "/modernPortfolio/static/media/s.ef079e7e.jpg",
+    "static/media/so.bba2de0d.jpg": "/modernPortfolio/static/media/so.bba2de0d.jpg",
+    "static/media/turnLight1.28f02af2.mp3": "/modernPortfolio/static/media/turnLight1.28f02af2.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.c015e7c2.js",
+    "static/js/runtime-main.82a83b9d.js",
     "static/js/2.c40f4e25.chunk.js",
-    "static/css/main.1ea1b9a6.chunk.css",
+    "static/css/main.b935eeee.chunk.css",
     "static/js/main.524d2741.chunk.js"
   ]
 }
