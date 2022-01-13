@@ -6,4 +6,4 @@ import App from "./App";
 import MyApp from "./myApp";
 import Button from "./components/Button";
 
-ReactDOM.render(<h1>Hello Sohail</h1>, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));

@@ -14,7 +14,6 @@ function App() {
   const [showNav, setShowNav] = useState(true);
 
   return (
-    {alert("hi")}
     <div className={`container ${darkTheme ? "dark" : "light"} `}>
       <div className="home-page">
         <Navbar
