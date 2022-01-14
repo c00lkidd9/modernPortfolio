@@ -67,15 +67,13 @@ body {
 .navbar {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  padding: 1rem 3rem;
+  padding: 1rem;
   width: 100%;
-  background:red;
 }
 
 .list-container {
   display: flex;
 }
-
 .close-btn-parent {
   padding: 1rem;
   justify-content: flex-end;
